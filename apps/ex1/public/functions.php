@@ -48,8 +48,11 @@
         4 - 3 = <?= subtract(4,3) ?><br>
         3 * 4 = <?= multiply(3,4) ?><br>
         12 / 4 = <?= divide(12,4) ?><br>
-        12 % 4 = <?= modulus(12,4) ?><br>
+        12 % 4 = <?= modulus(12,4) ?><br>        
      </div>
-    
+    <!-- <div>
+        //Divison by zero throws an error
+        12 / 0 = <?php echo divide(12, 0);?>
+    </div> -->
 </body>
 </html>

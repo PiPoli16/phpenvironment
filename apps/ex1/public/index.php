@@ -12,5 +12,7 @@
     <div><a href="dates.php">Dates</a></div>
     <div><a href="constants.php">Constants</a></div>
     <div><a href="functions.php">Functions</a></div>
+    <div><a href="ifstatements.php">If Statements</a></div>
+    <div><a href="oop.php">OOP</a></div>
 </body>
 </html>
