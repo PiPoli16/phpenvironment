@@ -50,6 +50,8 @@
             foreach($students as $s){
                 echo "<li>".$s->getFullName()."</li>";
             }
+
+        
             ?>
         </ul>
     </div>
